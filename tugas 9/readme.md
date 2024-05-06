@@ -90,6 +90,10 @@ Untuk menjalankan fork01.cpp menggunakan perintah g++ fork01.cpp -o fork01.exe
 
 ![image](https://github.com/muhammadzackynur/SysOP24-3123521006/assets/160557480/13d1a472-7f2c-4eed-aee9-30534f35b35a)
 
+- Perintah g++ zombie.c -o zombie.exe digunakan untuk mengkompilasi program C yang disimpan dalam file zombie.c menggunakan kompiler GNU C++ (g++). Opsi -o digunakan untuk menentukan nama file dari hasil kompilasi yang dihasilkan, dalam hal ini zombie.exe.
+
+- Perintah nano zombie.c digunakan untuk membuka atau membuat file teks bernama zombie.c menggunakan editor teks Nano
+
 ![image](https://github.com/muhammadzackynur/SysOP24-3123521006/assets/160557480/b839da02-d404-413a-9cb9-57964ea6b891)
 
 ![image](https://github.com/muhammadzackynur/SysOP24-3123521006/assets/160557480/79b8fd97-196b-417f-a441-ec6fddf79af7)
