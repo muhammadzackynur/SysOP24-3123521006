@@ -1,6 +1,13 @@
 NAMA : MUHAMMAD ZACKY NUR S
 NRP    : 3123521006
 
+-Mindmap Sejarah dan Fungsi Os
+-Perbedaan BIOS dan UEFI
+
+
+
+
+
 ##UEFI (Unified Extensible Firmware Interface) adalah sebuah antarmuka perangkat lunak yang menggantikan BIOS (Basic Input/Output System) tradisional dalam banyak komputer modern, terutama yang dibuat setelah tahun 2010. UEFI dirancang untuk memberikan antarmuka standar yang lebih canggih dan fleksibel antara sistem operasi dan perangkat keras komputer.
 
 Berikut adalah beberapa poin penting tentang UEFI:
